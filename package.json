@@ -1,0 +1,27 @@
+{
+  "name": "prettier-plugin-ux",
+  "version": "0.0.1",
+  "description": "Prettier Quickapp Plugin .",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --plugin=. --parser=vue"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicejade/prettier-plugin-quickapp.git"
+  },
+  "keywords": [
+    "Quickapp",
+    "快应用"
+  ],
+  "author": "nicejade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicejade/prettier-plugin-quickapp/issues"
+  },
+  "homepage": "https://github.com/nicejade/prettier-plugin-quickapp#readme"
+}

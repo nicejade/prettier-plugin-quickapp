@@ -1,6 +1,7 @@
 <div align="center">
-  <a href="https://github.com/nicejade/prettier-plugin-quickapp"><img src="https://raw.githubusercontent.com/nicejade/prettier-plugin-quickapp/master/doc/images/pretitter.svg" alt="Prettier Plugin Quickapp"></a>
-  <a href="https://github.com/nicejade/prettier-plugin-quickapp"><img src="https://raw.githubusercontent.com/nicejade/prettier-plugin-quickapp/master/doc/images/quickapp.png" alt="Prettier Plugin Quickapp"></a>
+  <a href="https://github.com/nicejade/prettier-plugin-quickapp"><img width="200" src="https://raw.githubusercontent.com/nicejade/prettier-plugin-quickapp/master/doc/images/pretitter.png" alt="Prettier Plugin Quickapp"></a>
+  <a href="https://github.com/nicejade/prettier-plugin-quickapp"><img
+  width="200" src="https://raw.githubusercontent.com/nicejade/prettier-plugin-quickapp/master/doc/images/quickapp.png" alt="Prettier Plugin Quickapp"></a>
 </div>
 
 <h2 align="center">Prettier Quickapp Plugin</h2>

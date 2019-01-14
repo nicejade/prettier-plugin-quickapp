@@ -26,7 +26,7 @@ module.exports = {
   // parsers,
   options,
   defaultOptions: {
-    printWidth: 80,
+    printWidth: 100,
     tabWidth: 2
   }
 }

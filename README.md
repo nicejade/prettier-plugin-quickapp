@@ -50,7 +50,7 @@ prettier --write "**/*.ux"
 npx prettier --write "**/*.ux"
 ```
 
-You can add a configuration similar to the following in the `scripts` of package.json. You can use one-click landscaping (`yarn prettier`) for your fast application code. This includes css, less, sass, etc., which can also be used to beautify. Markdown and so on, you can see in the [opinionated-code-formatter] (https://github.com/prettier/prettier#opinionated-code-formatter) that `prettier` has built-in support for multiple languages.
+You can add a configuration similar to the following in the `scripts` of package.json. You can use one-click landscaping (`yarn prettier`) for your fast application code. This includes css, less, sass, etc., which can also be used to beautify. Markdown and so on, you can see in the [opinionated-code-formatter](https://github.com/prettier/prettier#opinionated-code-formatter) that `prettier` has built-in support for multiple languages.
 
 ```bash
 "prettier": "prettier --write 'src/**/*.js' 'src/**/*.ux'",
@@ -61,7 +61,7 @@ In addition, you can also inject [onchange](https://github.com/Qard/onchange) de
 ```bash
 "prettier-watch": "onchange '**/*.md' 'src/**/*.js' 'src/**/*.ux' -- prettier --write {{changed}}"
 ```
-`Prettier` ships with a handful of customizable format options, usable in both the CLI and API. You can configure it yourself in package.json according to your own habits. Specific options and instructions can be found in [Options | Prettier] (https://prettier.io/docs/en/options.html).
+`Prettier` ships with a handful of customizable format options, usable in both the `CLI` and `API`. You can configure it yourself in *package.json* according to your own habits. Specific options and instructions can be found in [Options | Prettier](https://prettier.io/docs/en/options.html).
 
 ```json
 "prettier": {

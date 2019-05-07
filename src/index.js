@@ -5,7 +5,7 @@ const languages = [
     name: "Quickapp",
     since: "1.0.0",
     parsers: ["vue"],
-    extensions: [".ux"],
+    extensions: [".ux", ".qxml", ".wxml"],
     tmScope: "source.ux",
     aceMode: "text",
     linguistLanguageId: 303,

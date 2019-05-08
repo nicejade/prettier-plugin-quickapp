@@ -5,10 +5,20 @@ const languages = [
     name: "Quickapp",
     since: "1.0.0",
     parsers: ["vue"],
-    extensions: [".ux", ".qxml", ".wxml"],
+    extensions: [".ux"],
     tmScope: "source.ux",
     aceMode: "text",
     linguistLanguageId: 303,
+    vscodeLanguageIds: ["quickapp"]
+  },
+  {
+    name: "NewQuickapp",
+    since: "1.0.0",
+    parsers: ["html"],
+    extensions: [".qxml", ".wxml"],
+    tmScope: "source.ux",
+    aceMode: "text",
+    linguistLanguageId: 305,
     vscodeLanguageIds: ["quickapp"]
   }
 ]
